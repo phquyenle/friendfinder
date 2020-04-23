@@ -13,7 +13,22 @@ var friendMatch = [
         "4",
         "3",
         "4"
-    ]}];
+    ]}
+    {
+      name: "Wonder Woman",
+      photo:"https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/wonder_woman_whv_keyart.jpg"
+      scores:[
+        "5",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "2",
+        "4",
+      ]
+    }
+  ];
   
   
   
